@@ -369,7 +369,7 @@ php: /usr/bin/php /usr/lib64/php /etc/php.d /etc/php.ini /usr/include/php /usr/s
 
 关于mongodb有两个扩展，分别名为mongo和mongodb，都需要安装，安装方式是一样的。
 
-
+安装后重启php-fpm。
 
 ## 小错误
 
